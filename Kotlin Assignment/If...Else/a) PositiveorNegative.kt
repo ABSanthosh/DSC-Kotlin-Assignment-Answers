@@ -1,5 +1,4 @@
 // check if the given number is Positive or negative
-
 fun main() {
     val n:Int = 0
     if(n<0)println("$n is a negative number")
